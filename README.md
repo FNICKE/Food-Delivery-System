@@ -1,5 +1,5 @@
 **Deploy Your Own** <br>
-----How To DEPLOY----
+----How To Deploy----
 
 cd File name
 <br>
