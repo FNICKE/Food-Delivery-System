@@ -1,8 +1,10 @@
-**Deploy Your Own**
-How To DEPLOY----
+**Deploy Your Own** <br>
+----How To DEPLOY----
 
-cd <File name>
+cd File name
+<br>
 npm run dev
+<br>
 Then Go To Address Link
 
 
