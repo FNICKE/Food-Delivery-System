@@ -1,3 +1,13 @@
+**Deploy Your Own**
+How To DEPLOY----
+
+cd <File name>
+npm run dev
+Then Go To Address Link
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
