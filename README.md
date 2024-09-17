@@ -11,12 +11,14 @@ Then Go To Address Link
 
 Here’s an overview of my project.
 
-![Project Screenshot](https: C:\Users\SACHIN RATHOD\Documents\Custom Office Templates\OneDrive\Pictures\Screenshots)
+![Project Screenshot](./assets/screenshot.png)
+
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Enhanced User Engagement: Tailoring recommendations to user preferences increases the likelihood of repeat orders and customer loyalty.
+- Increased Sales: Personalized suggestions can highlight popular or new items, encouraging users to try different dishes or upgrade their orders.
+- Improved User Experience: Making it easier for users to discover new favorites or find their go-to dishes simplifies their decision-making process.
 
 
 
