@@ -11,7 +11,7 @@ Then Go To Address Link
 
 Here’s an overview of my project.
 
-![Project Screenshot](.public/screenshot.png)
+![Project Screenshot](./public/screenshot.png)
 
 
 ## Features
