@@ -1,4 +1,4 @@
-# 🍔 Food-Delivery-System-main
+# 🍔 Food-Delivery-System
 
 ![Project Screenshot](./public/screenshot.png)
 
