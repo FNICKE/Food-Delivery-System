@@ -3,7 +3,7 @@
 ![Project Screenshot](./public/screenshot.png)
 
 ## 🚀 Overview
-**Food-Delivery-System-main** is a modern food ordering and delivery web application designed to provide a seamless and intuitive user experience. Built with **React, HTML, CSS, and JavaScript**, this project features an interactive UI, a dynamic menu, and an easy-to-use cart system.
+**Food-Delivery-System** is a modern food ordering and delivery web application designed to provide a seamless and intuitive user experience. Built with **React, HTML, CSS, and JavaScript**, this project features an interactive UI, a dynamic menu, and an easy-to-use cart system.
 
 Whether you're craving a quick snack or a full-course meal, our system ensures a hassle-free ordering experience. Enjoy a smooth interface, responsive design, and fast checkout process!
 
